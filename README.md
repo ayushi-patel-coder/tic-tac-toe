@@ -35,7 +35,7 @@ While building this project, I practiced:
 
 ## 📸 Screenshot
 
-Coming soon...
+![Tic Tac Toe Game](assets/tic-tac-toe.png)
 
 ## 👩‍💻 Author
 
