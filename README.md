@@ -31,8 +31,6 @@ While building this project, I practiced:
 
 ## 🌐 Live Demo
 
-## 🌐 Live Demo
-
 [🎮 Play Tic Tac Toe](https://ayushi-patel-coder.github.io/tic-tac-toe/)
 
 ## 📸 Screenshot
